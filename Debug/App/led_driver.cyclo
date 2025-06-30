@@ -1,0 +1,5 @@
+../App/led_driver.c:3:6:set_led	1
+../App/led_driver.c:7:6:toggle_led	1
+../App/led_driver.c:11:6:set_all_led	2
+../App/led_driver.c:18:6:led_driver_init	1
+../App/led_driver.c:24:6:led_init	1
